@@ -1,0 +1,7 @@
+com/zaarolbasic/testCases/TC_LoginTest_001.class
+com/zaarolbasic/testCases/TC_LoginDDT_002.class
+com/zaarolbasic/utilities/XLUtils.class
+com/zaarolbasic/testCases/BaseClass.class
+com/zaarolbasic/pageObjects/LoginPage.class
+com/zaarolbasic/utilities/ReadConfig.class
+com/zaarolbasic/utilities/Reporting.class
